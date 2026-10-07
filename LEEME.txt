@@ -4,3 +4,5 @@ Abre index.html para la propuesta y original.html para la copia de referencia.
 Debajo de compra y muestra: materiales y características, envíos y devoluciones, asesoramiento. Todas abren el mismo panel desde la derecha.
 Materiales muestra un resumen breve con acceso a las especificaciones completas del Pasaporte. Envíos adapta su contenido a la modalidad seleccionada.
 Se conservan todos los paneles originales y las descargas. Este prototipo no tramita pedidos reales.
+
+La colección incluye el sello Rols Editions, la colaboración Wallace & Sewell × Rols y una breve presentación de las diseñadoras.

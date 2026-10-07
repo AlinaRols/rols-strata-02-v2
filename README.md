@@ -17,3 +17,9 @@ Abre `index.html`, o sirve esta carpeta con cualquier servidor estático. El enl
 ## Comprobación
 
 Revisado en navegador a 1440 px y a 320, 390 y 430 px, sin desbordamiento horizontal. Verificados el acceso al panel técnico, los recursos 3D y la selección de muestras. No sustituye pruebas en dispositivos reales ni validación de los datos técnicos originales.
+
+## Colección de diseñador
+
+El encabezado de colección incorpora el sello original Rols Editions y «Wallace & Sewell × Rols» como subtítulo. Una breve presentación del estudio sigue al relato de la colección, sin alterar el texto y las imágenes originales.
+
+Fuentes del texto: https://wallacesewell.com/pages/our-story y https://www.rolscarpets.com/colecciones/strata/.
