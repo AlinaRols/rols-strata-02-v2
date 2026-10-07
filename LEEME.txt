@@ -1,5 +1,6 @@
 Rols Strata 02 · V2 UX
 
 Abre index.html para la propuesta y original.html para la copia de referencia.
-Cabecera sin resumen técnico. Acceso a materiales y características debajo de compra y muestra, junto a asesoramiento y envíos. Abre el panel técnico original. Se conservan todos los paneles del Pasaporte y las descargas.
-Este prototipo no tramita pedidos reales. Los enlaces externos requieren conexión.
+Debajo de compra y muestra: materiales y características, envíos y devoluciones, asesoramiento.
+Materiales despliega un resumen breve de material, uso y ancho máximo, con enlace al panel técnico completo del Pasaporte.
+Se conservan todos los paneles originales y las descargas. Este prototipo no tramita pedidos reales.
