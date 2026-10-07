@@ -31,3 +31,5 @@ Colección: vídeo a la izquierda y presentación editorial a la derecha en escr
 Composición invertida en escritorio: texto a la izquierda y vídeo a la derecha, alineados arriba.
 
 Bloque editorial simplificado: título único, relato abierto en escritorio y Leer más en móvil, sin líneas ni enlaces auxiliares. Premios con los iconos de la referencia facilitada.
+
+Pasaporte editorial: introducción a la izquierda, recursos a la derecha con especificaciones y 3D primero, indicadores discretos debajo. Conserva todos los paneles.
