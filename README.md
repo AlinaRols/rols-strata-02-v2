@@ -27,3 +27,5 @@ Fuentes del texto: https://wallacesewell.com/pages/our-story y https://www.rolsc
 Premios de Strata: Red Dot Best of the Best 2024 e iF Design Award Gold 2024, junto al bloque de diseñadoras, con enlaces oficiales.
 
 Colección: vídeo a la izquierda y presentación editorial a la derecha en escritorio. Relato completo desplegable; diseñadoras y premios integrados. En móvil se apila.
+
+Composición invertida en escritorio: texto a la izquierda y vídeo a la derecha, alineados arriba.
