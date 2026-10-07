@@ -1,0 +1,19 @@
+# Rols · Strata 02 · V2 UX
+
+Prototipo independiente de la ficha de producto, orientado a interioristas y profesionales. La web y el repositorio originales no se han modificado.
+
+- V2: `index.html`
+- Copia de referencia: `original.html`
+- Original en línea: https://alinarols.github.io/rols-home-2026/alfombras/strata-02/
+
+La V2 conserva las fotografías, tipografías, configurador, contenido y los ocho paneles del Pasaporte de producto. Añade un resumen profesional arriba, acceso directo a especificaciones técnicas y recursos 3D/BIM, descarga técnica al inicio del panel y mayor protagonismo de la selección de muestras.
+
+Las muestras se seleccionan en el navegador. Este prototipo no tramita pedidos reales. Los enlaces a otros productos, servicios y documentos conservan sus destinos originales. Los documentos y el vídeo externos requieren conexión.
+
+## Vista previa
+
+Abre `index.html`, o sirve esta carpeta con cualquier servidor estático. El enlace «Ver original» permite alternar entre las dos versiones.
+
+## Comprobación
+
+Revisado en navegador a 1440 px y a 320, 390 y 430 px, sin desbordamiento horizontal. Verificados el acceso al panel técnico, los recursos 3D y la selección de muestras. No sustituye pruebas en dispositivos reales ni validación de los datos técnicos originales.
