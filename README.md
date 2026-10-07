@@ -23,3 +23,5 @@ Revisado en navegador a 1440 px y a 320, 390 y 430 px, sin desbordamiento horizo
 El encabezado de colección incorpora el sello original Rols Editions y «Wallace & Sewell × Rols» como subtítulo. Una breve presentación del estudio sigue al relato de la colección, sin alterar el texto y las imágenes originales.
 
 Fuentes del texto: https://wallacesewell.com/pages/our-story y https://www.rolscarpets.com/colecciones/strata/.
+
+Premios de Strata: Red Dot Best of the Best 2024 e iF Design Award Gold 2024, junto al bloque de diseñadoras, con enlaces oficiales.
