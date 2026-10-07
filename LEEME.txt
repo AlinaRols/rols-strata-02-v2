@@ -1,7 +1,5 @@
 Rols Strata 02 · V2 UX
 
 Abre index.html para la propuesta y original.html para la copia de referencia.
-La V2 conserva las fotografías, fuentes, configurador, Pasaporte y contenido original.
-Cambios: resumen profesional arriba; accesos al panel técnico y 3D/BIM; descarga técnica al inicio del panel; muestra como acción principal.
-Las muestras se seleccionan en el navegador. Este prototipo no tramita compras ni solicitudes reales.
-Los enlaces a colores, servicios y documentación conservan los destinos originales; los recursos externos requieren conexión.
+V2 aligerada: material y uso interior/exterior arriba; acceso discreto a materiales; compra y muestra agrupadas; descargas técnicas y recursos 3D/BIM en los paneles originales del Pasaporte.
+Este prototipo no tramita compras ni solicitudes reales. Los enlaces externos requieren conexión.
