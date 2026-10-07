@@ -29,3 +29,5 @@ Premios de Strata: Red Dot Best of the Best 2024 e iF Design Award Gold 2024, ju
 Colección: vídeo a la izquierda y presentación editorial a la derecha en escritorio. Relato completo desplegable; diseñadoras y premios integrados. En móvil se apila.
 
 Composición invertida en escritorio: texto a la izquierda y vídeo a la derecha, alineados arriba.
+
+Bloque editorial simplificado: título único, relato abierto en escritorio y Leer más en móvil, sin líneas ni enlaces auxiliares. Premios con los iconos de la referencia facilitada.
