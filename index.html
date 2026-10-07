@@ -5983,7 +5983,7 @@ body{font-family:var(--font-sans)}</style><meta charSet="utf-8"/><meta name="vie
         if (!lista) return;
         var abre = lista.classList.contains('hidden');
         lista.classList.toggle('hidden', !abre);
-        Array.prototype.forEach.call(caja.querySelectorAll('[data-more-toggle]'), function (control) { control.setAttribute('aria-expanded', abre ? 'true' : 'false'); });
+        b.setAttribute('aria-expanded', abre ? 'true' : 'false');
         var galon = b.querySelector('svg');
         if (galon) galon.style.rotate = abre ? '180deg' : '0deg';
       });
@@ -6397,7 +6397,7 @@ body{font-family:var(--font-sans)}</style><meta charSet="utf-8"/><meta name="vie
     b.addEventListener('click', function () {
       var abre = caja.getAttribute('data-state') !== 'open';
       caja.setAttribute('data-state', abre ? 'open' : 'closed');
-      b.setAttribute('aria-expanded', abre ? 'true' : 'false');
+      Array.prototype.forEach.call(caja.querySelectorAll('[data-more-toggle]'), function (control) { control.setAttribute('aria-expanded', abre ? 'true' : 'false'); });
       if (txt) txt.textContent = b.getAttribute(abre ? 'data-label-less' : 'data-label-more');
     });
   });
